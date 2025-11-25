@@ -76,22 +76,29 @@ git diff показывает изменения в коде, которые я 
 ![alt text](img/image-17.png)
 
 Создал новый файл на ветке main и закоммитил его
+
 ![alt text](img/image-18.png)
 
 Создал новую ветку. В git status ничего необычного
+
 ![alt text](img/image-19.png)
 
 Когда изменил текст, закоммитил его при использовании git log --oneline --graph --all появилась новая ветка
+
 ![alt text](img/image-20.png)
 
 Переключился на main. Команда cat выдала приветствие в нижнем регистре
+
 ![alt text](img/image-21.png)
 
 Из-за различной информации в одной и той же строке возник конфликт
+
 ![alt text](img/image-22.png)
 
 Удалил ветку
+
 ![alt text](img/image-23.png)
 
 Смержил main и mybranch
+
 ![alt text](img/image-24.png)
