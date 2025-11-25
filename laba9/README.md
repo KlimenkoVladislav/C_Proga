@@ -1,3 +1,6 @@
+# Задания на 3
+
+
 Нахожусь на ветке main
 
 ![alt text](img/image.png)
@@ -59,8 +62,7 @@ sort.c снова в "Changes not staged for commit". При вводе git comm
 ![alt text](img/image-14.png)
 
 
-
-
+# Задания на 4
 
 
 Показывает, что изменилось в коде.  git diff --staged пустой. После add стало наоборот
