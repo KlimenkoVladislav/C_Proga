@@ -12,11 +12,10 @@ void bubble_sort(int size, int arr[size]) {
         }
     }
 }
-// ...
-    int array[N] = {6, -5, 3, 77, 4};
-    // Сортируем по возрастанию
+int main(){
+    int a[] = {4, 2}
     bubble_sort(N, array);
-// ...
+}
 
 //добавил какой-то комментарий
 
