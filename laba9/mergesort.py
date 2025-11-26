@@ -2,7 +2,7 @@ from heapq import merge
 def merge_sort2(m):
     """Sort list, using two part merge sort"""
     if len(m) <= 1:
-    return m
+        return m
     # Determine the pivot point
     middle = len(m) // 2
     # Split the list at the pivot
@@ -16,7 +16,7 @@ def merge_sort2(m):
 def merge_sort4(m):
     """Sort list, using four part merge sort"""
     if len(m) <= 4:
-    return sorted(m)
+        return sorted(m)
     # Determine the pivot point
     middle = len(m) // 2
     leftMiddle = middle // 2
